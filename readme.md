@@ -9,3 +9,4 @@ encryption_key
 RSA KAN MAX 245 bytes
 
 Voor github in itellij gebruik je SSH keys
+Om te kijken met welk account het gelinkt is.
